@@ -12,7 +12,7 @@ Welcome to my portfolio! I'm a tinkerer and a passionate enjoyer of all things L
     *   [Thesus: Custom Ender 3 Pro](#thesus-custom-ender-3-pro)
     *   [Arch Linux Dotfiles](#arch-linux-dotfiles)
 *   [Skills & Technologies](#skills--technologies)
-*   [Connect With Me](#connect-with-me)
+
 My Homelab & Server Network
 
 This is the heart of my personal IT infrastructure. I've designed and built this server network to learn, experiment, and host various services. I use Tailscale for secure remote access to all my devices, allowing me to perform maintenance and updates from anywhere. Here's a breakdown of what's running.
@@ -38,21 +38,14 @@ Operating Systems & Virtualization
 
 Services & Applications
 
-    Hoarder: A self-hosted media library manager for organizing, cataloging, tracking, and sharing digital media collections.
-
-    Homepage: A customizable personal homepage that aggregates links, widgets, and content from various sources, creating a personalized dashboard for quick access to favorite websites, tools, and information.
-
-    n8n: An open-source workflow automation tool that allows you to connect various applications and services, automating tasks, integrating APIs, and creating workflows without extensive coding knowledge.
-
-    Nextcloud: A self-hosted cloud storage solution that provides file synchronization and sharing capabilities, similar to services like Dropbox or Google Drive.
-
-    Home Assistant: An open-source home automation platform that focuses on privacy and local control, automating smart home devices, monitoring home systems, and creating custom automation rules.
-
-    Jellyfin: A free and open-source media server software that allows you to stream your media collection, including movies, TV shows, music, and other media, to various devices within your home network.
-
-    Ollama: A platform for running and managing machine learning models locally, deploying and using AI models for various applications, such as natural language processing or image recognition.
-
-    Stable Diffusion: A deep learning model for generating images from text prompts, useful for artists, designers, and content creators.
+*   **Hoarder:** A self-hosted media library manager for organizing, cataloging, tracking, and sharing digital media collections.
+*   **Homepage:** A customizable personal homepage that aggregates links, widgets, and content from various sources, creating a personalized dashboard for quick access to favorite websites, tools, and information.
+*   **n8n:** An open-source workflow automation tool that allows you to connect various applications and services, automating tasks, integrating APIs, and creating workflows without extensive coding knowledge.
+*   **Nextcloud:** A self-hosted cloud storage solution that provides file synchronization and sharing capabilities, similar to services like Dropbox or Google Drive.
+*   **Home Assistant:** An open-source home automation platform that focuses on privacy and local control, automating smart home devices, monitoring home systems, and creating custom automation rules.
+*   **Jellyfin:** A free and open-source media server software that allows you to stream your media collection, including movies, TV shows, music, and other media, to various devices within your home network.
+*   **Ollama:** A platform for running and managing machine learning models locally, deploying and using AI models for various applications, such as natural language processing or image recognition.
+*   **Stable Diffusion:** A deep learning model for generating images from text prompts, useful for artists, designers, and content creators.
 
 Other Projects
 
@@ -86,8 +79,3 @@ Here is a list of my core competencies.
 
     
 
-Connect With Me
-
-    GitHub: [kvotheprints](https://github.com/kvotheprints)
-
-Feel free to reach out—I'm always open to discussing new ideas and opportunities!.
