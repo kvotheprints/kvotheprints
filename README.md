@@ -11,6 +11,7 @@ Welcome to my portfolio! I'm a tinkerer and a passionate enjoyer of all things L
 *   [Other Projects](#other-projects)
     *   [Thesus: Custom Ender 3 Pro](#thesus-custom-ender-3-pro)
     *   [Arch Linux Dotfiles](#arch-linux-dotfiles)
+    *   [PebbleBoard: A Flutter-Based Bookmark Manager](#pebbleboard-a-flutter-based-bookmark-manager)
 *   [Skills & Technologies](#skills--technologies)
 
 ## My Homelab & Server Network
@@ -68,6 +69,12 @@ This section highlights some of my other projects, ranging from web applications
 *   **Technologies Used:** Arch Linux, Zsh, Vim/Neovim, Tmux.
 *   **Link:** (coming soon)
 
+## PebbleBoard: A Flutter-Based Bookmark Manager
+
+*   **Description:** PebbleBoard is a versatile Flutter application designed to help you organize and manage your web content (bookmarks) efficiently. It allows you to create custom "boards" to categorize your links, complete with thumbnails and detailed metadata. Whether you're saving articles, videos, or any other web resource, PebbleBoard provides an intuitive interface to keep your digital life organized.
+*   **Technologies Used:** Flutter.
+*   **Link:** https://github.com/kvotheprints/pebble
+
 ## Skills & Technologies
 
 Here is a list of my core competencies.
@@ -76,6 +83,3 @@ Here is a list of my core competencies.
 *   **Scripting & Programming:** Python, Bash, JavaScript.
 *   **Networking:** DNS, DHCP, VPNs, Firewalls, SSH, Tailscale.
 *   **Virtualization & Containers:** Docker.
-
-    
-
