@@ -13,10 +13,10 @@ Welcome to my portfolio! I'm a tinkerer and a passionate enjoyer of all things L
     *   [Arch Linux Dotfiles](#arch-linux-dotfiles)
 *   [Skills & Technologies](#skills--technologies)
 
-My Homelab & Server Network
+## My Homelab & Server Network
 
 This is the heart of my personal IT infrastructure. I've designed and built this server network to learn, experiment, and host various services. I use Tailscale for secure remote access to all my devices, allowing me to perform maintenance and updates from anywhere. Here's a breakdown of what's running.
-Hardware
+### Hardware
 
 *   **Main Server:** MacBookPro12,1
     *   **CPU:** Intel i5-5257U (4) @ 3.100GHz.
@@ -29,14 +29,14 @@ Hardware
 *   **Router:** (Standard Home Router).
 *   **Remote Access:** Tailscale.
 
-Operating Systems & Virtualization
+### Operating Systems & Virtualization
 
 *   **Host OS:** Ubuntu 22.04.5 LTS.
 *   **Containerization:** Docker, Portainer.
 
     
 
-Services & Applications
+### Services & Applications
 
 *   **Hoarder:** A self-hosted media library manager for organizing, cataloging, tracking, and sharing digital media collections.
 *   **Homepage:** A customizable personal homepage that aggregates links, widgets, and content from various sources, creating a personalized dashboard for quick access to favorite websites, tools, and information.
@@ -47,10 +47,10 @@ Services & Applications
 *   **Ollama:** A platform for running and managing machine learning models locally, deploying and using AI models for various applications, such as natural language processing or image recognition.
 *   **Stable Diffusion:** A deep learning model for generating images from text prompts, useful for artists, designers, and content creators.
 
-Other Projects
+## Other Projects
 
 This section highlights some of my other projects, ranging from web applications to command-line tools. Each project has its own dedicated repository with a more detailed description.
-Thesus: Custom Ender 3 Pro
+## Thesus: Custom Ender 3 Pro
 
 *   **Description:** This project is a heavily modified Ender 3 Pro 3D printer, which I've nicknamed "Thesus." I've re-engineered the hardware and software to improve its performance and reliability, turning it into a truly custom machine.
 *   **Modifications:**
@@ -62,13 +62,13 @@ Thesus: Custom Ender 3 Pro
     *   I use GitHub to back up all my Klipper configuration files, ensuring my settings are always secure and version-controlled.
 *   **Link:** https://github.com/kvotheprints/thesus
 
-Arch Linux Dotfiles
+## Arch Linux Dotfiles
 
 *   **Description:** This repository contains my personal configuration files (dotfiles) for my Arch Linux setup. It's a living project that showcases my skills in shell scripting, system customization, and workflow optimization for a streamlined command-line experience.
 *   **Technologies Used:** Arch Linux, Zsh, Vim/Neovim, Tmux.
 *   **Link:** (coming soon)
 
-Skills & Technologies
+## Skills & Technologies
 
 Here is a list of my core competencies.
 
