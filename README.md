@@ -56,12 +56,12 @@ This section highlights some of my other projects, ranging from web applications
 *   **Description:** This project is a heavily modified Ender 3 Pro 3D printer, which I've nicknamed "Thesus." I've re-engineered the hardware and software to improve its performance and reliability, turning it into a truly custom machine.
 *   **Modifications:**
     *   **Structural:** Raised the printer's base to move the motherboard, power supply, and server below the print bed, creating a more compact and stable unit.
-    *   **Hotend & Extruder:** Installed a custom hotend and a 3D-printed extruder with a new stepper motor, configured as a direct drive using a custom bracket.
+    *   **Hotend & Extruder:** Installed a custom hotend ([Mantis Dual 5015 Toolhead](https://www.printables.com/model/1163171-mantis-dual-5015-toolhead-for-ender-3cr10-with-tz)) and a 3D-printed extruder with a new stepper motor, configured as a direct drive using a custom bracket.
     *   **Leveling:** Integrated an Enderklack probe for precise bed leveling.
 *   **Software & Technology:**
     *   The printer is powered by Klipper, a high-performance firmware, with Mainsail as the web interface for control and monitoring.
     *   I use GitHub to back up all my Klipper configuration files, ensuring my settings are always secure and version-controlled.
-*   **Link:** https://github.com/kvotheprints/thesus
+*   **Link:** https://github.com/jeremyxlewis/thesus
 
 ## Arch Linux Dotfiles
 
@@ -73,13 +73,12 @@ This section highlights some of my other projects, ranging from web applications
 
 *   **Description:** PebbleBoard is a versatile Flutter application designed to help you organize and manage your web content (bookmarks) efficiently. It allows you to create custom "boards" to categorize your links, complete with thumbnails and detailed metadata. Whether you're saving articles, videos, or any other web resource, PebbleBoard provides an intuitive interface to keep your digital life organized.
 *   **Technologies Used:** Flutter.
-*   **Link:** https://github.com/kvotheprints/pebble
+*   **Link:** https://github.com/jeremyxlewis/pebble
 
 ## Skills & Technologies
 
 Here is a list of my core competencies.
 
 *   **Operating Systems:** Linux (Ubuntu, Debian, Arch), Windows Server.
-*   **Scripting & Programming:** Python, Bash, JavaScript.
 *   **Networking:** DNS, DHCP, VPNs, Firewalls, SSH, Tailscale.
 *   **Virtualization & Containers:** Docker.
