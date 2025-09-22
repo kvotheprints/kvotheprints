@@ -4,15 +4,67 @@ Welcome to my portfolio! I'm a tinkerer and a passionate enjoyer of all things L
 
 ## Table of Contents
 
-*   [My Homelab & Server Network](#my-homelab--server-network)
-    *   [Hardware](#hardware)
-    *   [Operating Systems & Virtualization](#operating-systems--virtualization)
-    *   [Services & Applications](#services--applications)
 *   [Other Projects](#other-projects)
-    *   [Thesus: Custom Ender 3 Pro](#thesus-custom-ender-3-pro)
-    *   [Arch Linux Dotfiles](#arch-linux-dotfiles)
     *   [PebbleBoard: A Flutter-Based Bookmark Manager](#pebbleboard-a-flutter-based-bookmark-manager)
-*   [Skills & Technologies](#skills--technologies)
+    *   [D&D CLI Companion](#d-d-cli-companion)
+    *   [Thesus: Custom Ender 3 Pro](#thesus-custom-ender-3-pro)
+*   [Skills & Technologies](#skills-technologies)
+*   [My Homelab & Server Network](#my-homelab-server-network)
+    *   [Hardware](#hardware)
+    *   [Operating Systems & Virtualization](#operating-systems-virtualization)
+    *   [Services & Applications](#services-applications)
+
+
+
+## Other Projects
+
+This section highlights some of my other projects, ranging from web applications to command-line tools. Each project has its own dedicated repository with a more detailed description.
+## PebbleBoard: A Flutter-Based Bookmark Manager
+
+*   **Description:** PebbleBoard is a versatile Flutter application designed to help you organize and manage your web content (bookmarks) efficiently. It allows you to create custom "boards" to categorize your links, complete with thumbnails and detailed metadata. Whether you're saving articles, videos, or any other web resource, PebbleBoard provides an intuitive interface to keep your digital life organized.
+*   **Technologies Used:** Flutter.
+*   **Link:** https://github.com/jeremyxlewis/pebble
+
+## D&D CLI Companion
+
+*   **Description:** A command-line companion for Dungeons & Dragons players and Dungeon Masters, built with Go and Cobra. It features a dice roller, information lookup for spells, monsters, and items, an NPC generator, and an interactive TUI.
+*   **Technologies Used:** Go, Cobra.
+*   **Link:** https://github.com/jeremyxlewis/dnd
+
+## Thesus: Custom Ender 3 Pro
+
+*   **Description:** This project is a heavily modified Ender 3 Pro 3D printer, which I've nicknamed "Thesus." I've re-engineered the hardware and software to improve its performance and reliability, turning it into a truly custom machine.
+*   **Modifications:**
+    *   **Structural:** Raised the printer's base to move the motherboard, power supply, and server below the print bed, creating a more compact and stable unit.
+    *   **Hotend & Extruder:** Installed a custom hotend ([Mantis Dual 5015 Toolhead](https://www.printables.com/model/1163171-mantis-dual-5015-toolhead-for-ender-3cr10-with-tz)) and a 3D-printed extruder with a new stepper motor, configured as a direct drive using a custom bracket.
+    *   **Leveling:** Integrated an Enderklack probe for precise bed leveling.
+*   **Software & Technology:**
+    *   The printer is powered by Klipper, a high-performance firmware, with Mainsail as the web interface for control and monitoring.
+    *   I use GitHub to back up all my Klipper configuration files, ensuring my settings are always secure and version-controlled.
+*   **Link:** https://github.com/jeremyxlewis/thesus
+
+
+
+
+## PebbleBoard: A Flutter-Based Bookmark Manager
+
+*   **Description:** PebbleBoard is a versatile Flutter application designed to help you organize and manage your web content (bookmarks) efficiently. It allows you to create custom "boards" to categorize your links, complete with thumbnails and detailed metadata. Whether you're saving articles, videos, or any other web resource, PebbleBoard provides an intuitive interface to keep your digital life organized.
+*   **Technologies Used:** Flutter.
+*   **Link:** https://github.com/jeremyxlewis/pebble
+
+## D&D CLI Companion
+
+*   **Description:** A command-line companion for Dungeons & Dragons players and Dungeon Masters, built with Go and Cobra. It features a dice roller, information lookup for spells, monsters, and items, an NPC generator, and an interactive TUI.
+*   **Technologies Used:** Go, Cobra.
+*   **Link:** https://github.com/jeremyxlewis/dnd
+
+## Skills & Technologies
+
+Here is a list of my core competencies.
+
+*   **Operating Systems:** Linux (Ubuntu, Debian, Arch), Windows Server.
+*   **Networking:** DNS, DHCP, VPNs, Firewalls, SSH, Tailscale.
+*   **Virtualization & Containers:** Docker.
 
 ## My Homelab & Server Network
 
@@ -47,44 +99,3 @@ This is the heart of my personal IT infrastructure. I've designed and built this
 *   **Jellyfin:** A free and open-source media server software that allows you to stream your media collection, including movies, TV shows, music, and other media, to various devices within your home network.
 *   **Ollama:** A platform for running and managing machine learning models locally, deploying and using AI models for various applications, such as natural language processing or image recognition.
 *   **Stable Diffusion:** A deep learning model for generating images from text prompts, useful for artists, designers, and content creators.
-
-## Other Projects
-
-This section highlights some of my other projects, ranging from web applications to command-line tools. Each project has its own dedicated repository with a more detailed description.
-## Thesus: Custom Ender 3 Pro
-
-*   **Description:** This project is a heavily modified Ender 3 Pro 3D printer, which I've nicknamed "Thesus." I've re-engineered the hardware and software to improve its performance and reliability, turning it into a truly custom machine.
-*   **Modifications:**
-    *   **Structural:** Raised the printer's base to move the motherboard, power supply, and server below the print bed, creating a more compact and stable unit.
-    *   **Hotend & Extruder:** Installed a custom hotend ([Mantis Dual 5015 Toolhead](https://www.printables.com/model/1163171-mantis-dual-5015-toolhead-for-ender-3cr10-with-tz)) and a 3D-printed extruder with a new stepper motor, configured as a direct drive using a custom bracket.
-    *   **Leveling:** Integrated an Enderklack probe for precise bed leveling.
-*   **Software & Technology:**
-    *   The printer is powered by Klipper, a high-performance firmware, with Mainsail as the web interface for control and monitoring.
-    *   I use GitHub to back up all my Klipper configuration files, ensuring my settings are always secure and version-controlled.
-*   **Link:** https://github.com/jeremyxlewis/thesus
-
-## Arch Linux Dotfiles
-
-*   **Description:** This repository contains my personal configuration files (dotfiles) for my Arch Linux setup. It's a living project that showcases my skills in shell scripting, system customization, and workflow optimization for a streamlined command-line experience.
-*   **Technologies Used:** Arch Linux, Zsh, Vim/Neovim, Tmux.
-*   **Link:** (coming soon)
-
-## PebbleBoard: A Flutter-Based Bookmark Manager
-
-*   **Description:** PebbleBoard is a versatile Flutter application designed to help you organize and manage your web content (bookmarks) efficiently. It allows you to create custom "boards" to categorize your links, complete with thumbnails and detailed metadata. Whether you're saving articles, videos, or any other web resource, PebbleBoard provides an intuitive interface to keep your digital life organized.
-*   **Technologies Used:** Flutter.
-*   **Link:** https://github.com/jeremyxlewis/pebble
-
-## D&D CLI Companion
-
-*   **Description:** A command-line companion for Dungeons & Dragons players and Dungeon Masters, built with Go and Cobra. It features a dice roller, information lookup for spells, monsters, and items, an NPC generator, and an interactive TUI.
-*   **Technologies Used:** Go, Cobra.
-*   **Link:** https://github.com/jeremyxlewis/dnd
-
-## Skills & Technologies
-
-Here is a list of my core competencies.
-
-*   **Operating Systems:** Linux (Ubuntu, Debian, Arch), Windows Server.
-*   **Networking:** DNS, DHCP, VPNs, Firewalls, SSH, Tailscale.
-*   **Virtualization & Containers:** Docker.
