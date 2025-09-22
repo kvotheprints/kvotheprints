@@ -19,19 +19,19 @@ Welcome to my portfolio! I'm a tinkerer and a passionate enjoyer of all things L
 ## Other Projects
 
 This section highlights some of my other projects, ranging from web applications to command-line tools. Each project has its own dedicated repository with a more detailed description.
-## PebbleBoard: A Flutter-Based Bookmark Manager
+### PebbleBoard: A Flutter-Based Bookmark Manager
 
 *   **Description:** PebbleBoard is a versatile Flutter application designed to help you organize and manage your web content (bookmarks) efficiently. It allows you to create custom "boards" to categorize your links, complete with thumbnails and detailed metadata. Whether you're saving articles, videos, or any other web resource, PebbleBoard provides an intuitive interface to keep your digital life organized.
 *   **Technologies Used:** Flutter.
 *   **Link:** https://github.com/jeremyxlewis/pebble
 
-## D&D CLI Companion
+### D&D CLI Companion
 
 *   **Description:** A command-line companion for Dungeons & Dragons players and Dungeon Masters, built with Go and Cobra. It features a dice roller, information lookup for spells, monsters, and items, an NPC generator, and an interactive TUI.
 *   **Technologies Used:** Go, Cobra.
 *   **Link:** https://github.com/jeremyxlewis/dnd
 
-## Thesus: Custom Ender 3 Pro
+### Thesus: Custom Ender 3 Pro
 
 *   **Description:** This project is a heavily modified Ender 3 Pro 3D printer, which I've nicknamed "Thesus." I've re-engineered the hardware and software to improve its performance and reliability, turning it into a truly custom machine.
 *   **Modifications:**
@@ -43,20 +43,6 @@ This section highlights some of my other projects, ranging from web applications
     *   I use GitHub to back up all my Klipper configuration files, ensuring my settings are always secure and version-controlled.
 *   **Link:** https://github.com/jeremyxlewis/thesus
 
-
-
-
-## PebbleBoard: A Flutter-Based Bookmark Manager
-
-*   **Description:** PebbleBoard is a versatile Flutter application designed to help you organize and manage your web content (bookmarks) efficiently. It allows you to create custom "boards" to categorize your links, complete with thumbnails and detailed metadata. Whether you're saving articles, videos, or any other web resource, PebbleBoard provides an intuitive interface to keep your digital life organized.
-*   **Technologies Used:** Flutter.
-*   **Link:** https://github.com/jeremyxlewis/pebble
-
-## D&D CLI Companion
-
-*   **Description:** A command-line companion for Dungeons & Dragons players and Dungeon Masters, built with Go and Cobra. It features a dice roller, information lookup for spells, monsters, and items, an NPC generator, and an interactive TUI.
-*   **Technologies Used:** Go, Cobra.
-*   **Link:** https://github.com/jeremyxlewis/dnd
 
 ## Skills & Technologies
 
