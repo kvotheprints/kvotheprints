@@ -75,6 +75,12 @@ This section highlights some of my other projects, ranging from web applications
 *   **Technologies Used:** Flutter.
 *   **Link:** https://github.com/jeremyxlewis/pebble
 
+## D&D CLI Companion
+
+*   **Description:** A command-line companion for Dungeons & Dragons players and Dungeon Masters, built with Go and Cobra. It features a dice roller, information lookup for spells, monsters, and items, an NPC generator, and an interactive TUI.
+*   **Technologies Used:** Go, Cobra.
+*   **Link:** https://github.com/jeremyxlewis/dnd
+
 ## Skills & Technologies
 
 Here is a list of my core competencies.
